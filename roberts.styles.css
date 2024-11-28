@@ -341,7 +341,7 @@ img {
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
 
 
-@media (min-width:980px) {
+@media (min-width:1480px) {
     img {
         width: 300px;
         max-width: 300px;
